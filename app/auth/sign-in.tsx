@@ -106,7 +106,7 @@ export default function SignInScreen() {
             />
             <Text style={styles.backText}>Back</Text>
           </Link>
-          <Text style={styles.title}>Welcome back</Text>
+          <Text style={styles.title}>Welcome Back!</Text>
         </View>
 
         <View style={styles.form}>
@@ -202,6 +202,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     marginBottom: 24,
     marginTop: 16,
+    
   },
   backText: {
     color: '#b0fb50',
