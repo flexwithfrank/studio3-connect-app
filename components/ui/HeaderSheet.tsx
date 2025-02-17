@@ -172,10 +172,10 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     paddingVertical: 16,
     borderBottomWidth: 1,
-    borderBottomColor: '#333333',
+    borderBottomColor: '#222222',
   },
   title: {
-    fontSize: 18,
+    fontSize: 20,
     fontWeight: '600',
     color: '#ffffff',
   },
