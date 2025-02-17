@@ -32,6 +32,16 @@ const HISTORY_DATA = [
     location: 'EG Wellbeing | EG Wellbeing...',
     instructor: 'w/ Fitness Seattle',
   },
+  {
+    id: '4',
+    date: 'Wednesday, Feb 5th',
+    time: '1:00 pm',
+    duration: '60min',
+    type: 'OTHER',
+    title: 'Club Check In',
+    location: 'EG Wellbeing | EG Wellbeing...',
+    instructor: 'w/ Fitness Seattle',
+  },
 ];
 
 export default function ClassHistory() {
